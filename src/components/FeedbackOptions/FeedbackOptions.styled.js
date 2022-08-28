@@ -7,7 +7,7 @@ export const List = styled.ul`
 `;
 
 export const Button = styled.button`
-  background-color:Linen;
+  background-color: LavenderBlush;
   border: none;
   border-radius: 5px;
   width: 160px;
